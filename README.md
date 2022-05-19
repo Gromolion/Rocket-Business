@@ -1,10 +1,8 @@
-# Rocket-Business
-## Тестовое задание от Rocket Business
+# Тестовое задание от Rocket Business
 
 ---
-### Скрипт для создания БД MySQL
-
-### !!!Работает только для Linux и MySQL!!!
+## Скрипт для создания БД MySQL  
+## !!!Работает только для Linux и MySQL!!!
 ---
 
 
